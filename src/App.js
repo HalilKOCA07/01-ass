@@ -1,5 +1,6 @@
 import Lesson from "./pages/Lesson";
 import "./app.scss"
+import data from "./data";
 
 function App() {
   return (
